@@ -1,0 +1,15 @@
+D:\HomeWork\Zadanie1\Exp4\bin\Debug\net6.0\Exp4.exe
+D:\HomeWork\Zadanie1\Exp4\bin\Debug\net6.0\Exp4.deps.json
+D:\HomeWork\Zadanie1\Exp4\bin\Debug\net6.0\Exp4.runtimeconfig.json
+D:\HomeWork\Zadanie1\Exp4\bin\Debug\net6.0\Exp4.dll
+D:\HomeWork\Zadanie1\Exp4\bin\Debug\net6.0\Exp4.pdb
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.csproj.AssemblyReference.cache
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.AssemblyInfoInputs.cache
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.AssemblyInfo.cs
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.csproj.CoreCompileInputs.cache
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.dll
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\refint\Exp4.dll
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.pdb
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\Exp4.genruntimeconfig.cache
+D:\HomeWork\Zadanie1\Exp4\obj\Debug\net6.0\ref\Exp4.dll
